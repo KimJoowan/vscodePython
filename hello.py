@@ -19,6 +19,6 @@ print(type(c))
 num1 = int(input('input num1:'))
 num2 = int(input('input num2:'))
 
-print(f'{num1}+{num2} = {num1 + num2}')
+print(f'{num1} + {num2} = {num1 + num2}')
 
 
