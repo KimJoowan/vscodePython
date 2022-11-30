@@ -1,5 +1,5 @@
 #  pdf
-* .pdf
+*.pdf
 
 # ipynb(주피터 코랩 파이썬 파일)
 *.ipynb
